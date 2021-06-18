@@ -1,0 +1,1 @@
+GitHub is place where you host your code repository/project. You can share your project with multiple people who can collaborate or consume your work. It keeps track of who changed what, allows you to track the bugs/defects in your project. Git bash is the command prompt which you would use to interact between github and your local copy of the code.
