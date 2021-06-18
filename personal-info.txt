@@ -1,9 +1,9 @@
-Name: Mark Anthony per
+Name: Mark Anthony Per
 Age:20
 Gender: male
 Email address: permarkanthony@gmail.com
-Address: zone 4 bulan Sorsogon
+Address: Zone 4, Bulan, Sorsogon
 Citizenship: filipino
 School: Sorsogon state university
-Birthday: april 11 2001
-Birth of place: Bulan sorsogon
+Birthday: April 11, 2001
+Birth of place: Bulan, Sorsogon
